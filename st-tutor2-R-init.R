@@ -81,3 +81,4 @@ x=X
 sigma2=N/12
 curve(dnorm(x,mean=N/2,sd=sqrt(sigma2)),
 add=T, col="green", lwd=2)
+#test transfert ves github
